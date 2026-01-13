@@ -1,0 +1,1 @@
+my_password = "AWS_AKIA_9821_RANDOM_KEY!"
