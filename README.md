@@ -121,6 +121,6 @@ py train_local.py
 ## 👨‍💻 Author
 Shivansh Rao
 
-GitHub Profile
+https://github.com/r-Shivansh01
 
 Project built with Python, TensorFlow, and Git Hooks.
