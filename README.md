@@ -87,7 +87,7 @@ Add a line that looks like a high-security key:
 Python
 
 aws_key = "AKIA_8291_RANDOM_SECRET_KEY_!!!2"
-Try to commit it:
+Try to commit it :
 
 ```bash
 
