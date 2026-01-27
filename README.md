@@ -119,7 +119,7 @@ py train_local.py
 ```
 
 ## 👨‍💻 Author
-Shivansh Rao
+Shivansh Rao.
 
 https://github.com/r-Shivansh01
 
