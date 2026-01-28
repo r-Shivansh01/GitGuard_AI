@@ -1,6 +1,6 @@
 # 🛡️ GitGuard AI: Neural Network Secret Scanner
 
-**GitGuard AI** is an intelligent security tool that integrates directly into your Git workflow. It uses a **Deep Learning model (TensorFlow)** to scan your code commits for accidentally leaked secrets—such as API keys, passwords, and access tokens—before they ever leave your computer.
+**GitGuard AI** is an intelligent security tool that integrates directly into your Git workflow. It uses a **Deep Learning model (TensorFlow)** to scan your code commits for accidentally leaked secrets—such as API keys, passwords, and access tokens—before they ever leave your computer. (No more accidents)
 
 Unlike traditional security tools that rely on rigid "Regular Expressions" (Regex), GitGuard uses **Shannon Entropy** and statistical feature extraction to detect *any* high-entropy string, even if it has never seen that specific format before.
 
