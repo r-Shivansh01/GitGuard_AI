@@ -109,9 +109,9 @@ Plaintext
 ## 🔧 Troubleshooting
 1. "Pip not recognized" Ensure Python is added to your system PATH, or try running commands with python -m pip instead of just pip.
 
-2. The Hook isn't triggering Make sure the file inside .git/hooks/pre-commit has no file extension (it should not be .txt or .py).
+2. The Hook isn't triggering Make sure the file inside .git/hooks/pre-commit has no file extension(it should not be .txt or .py).
 
-3. "TensorFlow version mismatch" If you see an error about the model file format, simply run the local trainer to rebuild the brain for your specific computer:
+3. "TensorFlow version mismatch" If you see an error about the model file format, simply run the local trainer to rebuild the brain for your specific computer.
 
 
 ```bash
