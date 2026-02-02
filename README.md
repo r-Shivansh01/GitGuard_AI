@@ -107,7 +107,7 @@ Plaintext
 ```
 
 ## 🔧 Troubleshooting
-1. "Pip not recognized" Ensure Python is added to your system PATH, or try running commands with python -m pip instead of just pip.
+1. "Pip not recognized" Ensure Python is added to your system PATH,  or try running commands with python -m pip instead of just pip.
 
 2. The Hook isn't triggering Make sure the file inside .git/hooks/pre-commit has no file extension(it should not be .txt or .py).
 
