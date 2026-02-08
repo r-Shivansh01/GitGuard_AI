@@ -118,7 +118,7 @@ Plaintext
 py train_local.py
 ```
 
-## 👨‍💻 Author
+## 👨‍💻 Author.
 Shivansh Rao.
 
 https://github.com/r-Shivansh01
