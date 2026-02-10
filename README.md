@@ -16,11 +16,11 @@ Unlike traditional security tools that rely on rigid "Regular Expressions" (Rege
 
 ---
 
-## 🛠️ Installation Guide
+## 🛠️ Installation Guide:
 
 Follow these steps to set up GitGuard AI on your local machine.
 
-### Prerequisites
+### Prerequisites:
 * **Python 3.9+** installed.
 * **Git** installed and initialized in your project.
 
