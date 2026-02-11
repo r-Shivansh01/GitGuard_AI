@@ -6,7 +6,7 @@ Unlike traditional security tools that rely on rigid "Regular Expressions" (Rege
 
 ---
 
-## 🚀 Key Features
+## 🚀 Key Features:
 
 * **🧠 AI-Powered Detection:** Runs a pre-trained Neural Network on every line of code you commit.
 * **📊 Shannon Entropy Analysis:** Mathematically calculates the "chaos" of a string to distinguish between safe code (predictable) and secrets (random).
@@ -60,7 +60,7 @@ cp hooks/pre-commit .git/hooks/pre-commit
 chmod +x .git/hooks/pre-commit
 ```
 
-## ⚙️ How It Works (The Science)
+## ⚙️ How It Works (The Science):
 GitGuard does not "read" code like a human. It converts text into mathematical vectors based on 4 key features:
 
 Digit Density: How many numbers are in the string? (password123 vs password)
