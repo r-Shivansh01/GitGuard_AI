@@ -30,7 +30,7 @@ Download the project code and the pre-trained brain (`.h5` file).
 git clone [https://github.com/r-Shivansh01/GitGuard_AI.git](https://github.com/r-Shivansh01/GitGuard_AI.git)
 cd GitGuard_AI
 ```
-### Step 2: Install Dependencies
+### Step 2: Install Dependencies:
 GitGuard relies on TensorFlow for the brain and NumPy for the math.
 
 ```bash
@@ -43,7 +43,7 @@ pip3 install tensorflow numpy pandas
 Note: If you encounter version errors, try installing specific versions: pip install tensorflow==2.15.0 numpy<2
 ```
 
-### Step 3: Activate the Guard (The Git Hook)
+### Step 3: Activate the Guard (The Git Hook):
 This step wires the Python script into your Git system so it runs automatically.
 ```
 For Windows (PowerShell):
