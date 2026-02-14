@@ -24,7 +24,7 @@ Follow these steps to set up GitGuard AI on your local machine.
 * **Python 3.9+** installed.
 * **Git** installed and initialized in your project.
 
-### Step 1: Clone the Repository
+### Step 1: Clone the Repository:
 Download the project code and the pre-trained brain (`.h5` file).
 ```bash
 git clone [https://github.com/r-Shivansh01/GitGuard_AI.git](https://github.com/r-Shivansh01/GitGuard_AI.git)
