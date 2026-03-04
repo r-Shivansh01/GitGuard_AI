@@ -6,7 +6,7 @@ Unlike traditional security tools that rely on rigid "Regular Expressions" (Rege
 
 ---
 
-## 🚀 Key Features:
+## 🚀 Key Features :
 
 * **🧠 AI-Powered Detection:** Runs a pre-trained Neural Network on every line of code you commit.
 * **📊 Shannon Entropy Analysis:** Mathematically calculates the "chaos" of a string to distinguish between safe code (predictable) and secrets (random).
@@ -16,7 +16,7 @@ Unlike traditional security tools that rely on rigid "Regular Expressions" (Rege
 
 ---
 
-## 🛠️ Installation Guide:
+## 🛠️ Installation Guide :
 
 Follow these steps to set up GitGuard AI on your local machine.
 
