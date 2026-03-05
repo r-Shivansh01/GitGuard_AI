@@ -61,19 +61,19 @@ chmod +x .git/hooks/pre-commit
 ```
 
 ## ⚙️ How It Works (The Science) :
-GitGuard does not "read" code like a human. It converts text into mathematical vectors based on 4 key features:
+GitGuard does not "read" code like a human. It converts text into mathematical vectors based on 4 key features :
 
 Digit Density: How many numbers are in the string? (password123 vs password)
 
 Symbol Density: Frequency of characters like !@#$%.
 
-Uppercase Ratio: Secrets often use random capitalization (aB3dE vs print).
+Uppercase Ratio: Secrets often use random capitalization  (aB3dE vs print).
 
 Shannon Entropy: A measure of unpredictability.
 
-print('hello') → Low Entropy(Safe)
+print('hello') → Low Entropy (Safe)
 
-x8!2kaPv9@ → High Entropy(Dangerous)
+x8!2kaPv9@ → High Entropy (Dangerous)
 
 The Neural Network (3-layer Dense Model) processes these 4 numbers and outputs a Danger Score between 0.0 and 1.0. If the score exceeds 0.5, the commit is blocked.
 
