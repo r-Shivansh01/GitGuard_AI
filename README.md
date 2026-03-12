@@ -2,11 +2,11 @@
 
 **GitGuard AI** is an intelligent security tool that integrates directly into your Git workflow. It uses a **Deep Learning model (TensorFlow)** to scan your code commits for accidentally leaked secrets—such as API keys, passwords, and access tokens—before they ever leave your computer. (No more accidents)
 
-Unlike traditional security tools that rely on rigid "Regular Expressions" (Regex), GitGuard uses **Shannon Entropy** and statistical feature extraction to detect *any* high-entropy string, even if it has never seen that specific format before.
+Unlike traditional security tools that rely on rigid "Regular Expressions" (Regex), GitGuard uses **Shannon Entropy** and statistical feature extraction to detect *any* high-entropy string, even if it has never seen that specific  format before.
 
 ---
 
-## 🚀 Key Features :
+## 🚀 Key Features:
 
 * **🧠 AI-Powered Detection:** Runs a pre-trained Neural Network on every line of code you commit.
 * **📊 Shannon Entropy Analysis:** Mathematically calculates the "chaos" of a string to distinguish between safe code (predictable) and secrets (random).
@@ -20,7 +20,7 @@ Unlike traditional security tools that rely on rigid "Regular Expressions" (Rege
 
 Follow these steps to set up GitGuard AI on your local machine.
 
-### Prerequisites`:
+### Prerequisites` :
 * **Python 3.9+** installed.
 * **Git** installed and initialized in your project.
 
