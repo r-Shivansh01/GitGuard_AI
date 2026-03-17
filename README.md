@@ -16,7 +16,7 @@ Unlike traditional security tools that rely on rigid "Regular Expressions" (Rege
 
 ---
 
-## 🛠️ Installation Guide :
+## 🛠️ Installation Guide:
 
 Follow these steps to set up GitGuard AI on your local machine.
 
@@ -60,7 +60,7 @@ cp hooks/pre-commit .git/hooks/pre-commit
 chmod +x .git/hooks/pre-commit
 ```
 
-## ⚙️ How It Works (The Science) :
+## ⚙️ How It Works (The Science):
 GitGuard does not "read" code like a human. It converts text into mathematical vectors based on 4 key features:
 
 Digit Density: How many numbers are in the string? (password123 vs password)
