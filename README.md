@@ -77,7 +77,7 @@ x8!2kaPv9@ → High Entropy (Dangerous)
 
 The Neural Network (3-layer Dense Model) processes these 4 numbers and outputs a Danger Score between 0.0 and 1.0. If the score exceeds 0.5, the commit is blocked.
 
-## 🧪 Testing the Guard :
+## 🧪 Testing the Guard:
 Once installed, you can verify it works by trying to commit a "fake" secret.
 
 Create a file named test_secret.py.
@@ -87,7 +87,7 @@ Add a line that looks like a high-security key:
 Python
 
 aws_key = "AKIA_8291_RANDOM_SECRET_KEY_!!!2"
-Try to commit it :
+Try to commit it:
 
 ```bash
 
